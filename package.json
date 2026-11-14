@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "twikoo-netlify": "latest"
+    "twikoo-netlify": "latest",
+    "twikoo-vercel": "^1.7.24"
   }
 }
